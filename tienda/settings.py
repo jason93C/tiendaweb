@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-jmczs3&$)cdq4evbkw3jx@@sved@b#b5tk3p=ik1rhz$^au#e2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['latienda-5ir1.onrender.com']
+ALLOWED_HOSTS = ['latienda-5ir1.onrender.com'
+                'tiendaweb-nc9u.onrender.com',]
 
 
 # Application definition
